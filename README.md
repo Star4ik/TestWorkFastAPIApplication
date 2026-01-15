@@ -20,8 +20,8 @@ Docker Compose для быстрого поднятия всех сервисо�
 
 Клонируем репозиторий:
 
-git clone <REPO_URL>
-cd <PROJECT_FOLDER>
+git clone https://github.com/Star4ik/TestWorkFastAPIApplication.git
+cd TestWorkFastAPIApplication
 
 
 Создаем .env файл и заполняем его:
