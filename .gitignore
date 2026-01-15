@@ -1,0 +1,53 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+
+# Virtual Environment
+.venv/
+env/
+venv/
+ENV/
+
+# Editor/IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Byte-compiled / caches
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Distribution / packaging
+.Python
+pip-wheel-metadata/
+*.egg-info/
+*.egg
+*.whl
+
+# Logs
+*.log
+
+# Docker
+*.env
+docker-compose.override.yml
+*.pid
+*.sock
+
+# Alembic
+alembic/versions/*.pyc
+
+# Misc
+.DS_Store
+*.bak
+*.swp
+*.tmp
