@@ -21,6 +21,8 @@ Docker Compose для быстрого поднятия всех сервисо�
 Клонируем репозиторий:
 
 git clone https://github.com/Star4ik/TestWorkFastAPIApplication.git
+
+
 cd TestWorkFastAPIApplication
 
 
